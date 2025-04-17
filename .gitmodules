@@ -1,0 +1,3 @@
+[submodule "KISA_SEED_128_CBC"]
+	path = KISA_SEED_128_CBC
+	url = https://github.com/Tempuss/KISA_SEED_128_CBC.git
